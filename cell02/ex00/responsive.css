@@ -1,0 +1,17 @@
+body{
+            margin: 0;
+        }
+        table{
+            border: 1px solid #000;
+            width: 100%;
+            height: 100vh;
+            border-collapse: collapse;
+        }
+        td{
+            border: 1px solid #000;
+            text-align: center;
+            font-size: 2vw;
+            height: 100%;
+            vertical-align: middle;
+            overflow-wrap: break-word;
+        }
