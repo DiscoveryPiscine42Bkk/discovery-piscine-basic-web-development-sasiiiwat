@@ -24,6 +24,7 @@ body {
 }
 
 .profile-pic {
+  margin-top: 20px;
   width: 200px;
   height: auto;
 }
